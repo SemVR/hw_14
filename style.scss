@@ -1,10 +1,15 @@
+@import './style/nav_menu.scss';
+@import './style/cont_startpage.scss';
+
 .main_conteiner{
 	width: 1440px;
 	height: 3040px;
 }
 .start_page{
-	width: 100vh;
+	width: 100%;
 	height: 586px; //19%
+	background-color: #74C69D;
+	color: #ffffff;
 }
 .partners_info{
 	width: 100%;
