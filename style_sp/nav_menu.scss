@@ -23,13 +23,23 @@
 ul>li {
 	display: inline-block;
 }
-.navbar{
+
+.navbar {
+	overflow: hidden;
+	font-family: Work Sans;
+}
+.navbar a {
 	height: 100%; //25px
 	gap: 5%; //30px
-	font-family: Work Sans;
 	font-weight: 400;
 	font-size: 20px;
 	line-height: 125%;
 	letter-spacing: 0px;
 	padding-top: 12px;
+	text-decoration: none;
+	color: #ffffff;
+	text-align: end;
+}
+.navbar a:hover{
+	color: #bafdc8;
 }
