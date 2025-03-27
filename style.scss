@@ -1,5 +1,6 @@
 @import './style_sp/nav_menu.scss';
 @import './style_sp/cont_startpage.scss';
+@import './style_pi/partners_info.scss';
 
 .main_conteiner{
 	width: 1440px;
@@ -13,7 +14,12 @@
 }
 .partners_info{
 	width: 100%;
-	height: 55%; //55% 1658px
+	height: 16%;
+	padding-left: 141px;
+}
+.article{
+	width: 100%;
+	height: 45%;	
 }
 .team_info{
 	width: 100%;
