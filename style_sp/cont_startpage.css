@@ -63,4 +63,9 @@
   text-align: center;
   border-radius: 5px;
   border: 5px #FFFFFF;
+}
+
+.bsb:hover {
+  background-color: #e5ffe0;
+  color: rgba(0, 0, 0, 0.5254901961);
 }/*# sourceMappingURL=cont_startpage.css.map */
