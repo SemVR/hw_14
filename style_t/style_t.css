@@ -42,6 +42,11 @@
 .card {
   width: 252px;
   height: auto;
+  box-shadow: 3px 4px 12px 1px rgba(0, 0, 0, 0.2509803922);
+}
+
+.card:hover {
+  box-shadow: 6px 8px 24px 2px #74C69D;
 }
 
 .carousel {
