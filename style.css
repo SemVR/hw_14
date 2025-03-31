@@ -114,11 +114,12 @@ ul > li {
   text-align: center;
   border-radius: 5px;
   border: 5px #FFFFFF;
+  color: rgba(0, 0, 0, 0.637);
 }
 
 .bsb:hover {
   background-color: #e5ffe0;
-  color: rgba(0, 0, 0, 0.5254901961);
+  color: #000000;
 }
 
 .partner_text {
@@ -396,6 +397,11 @@ ul > li {
   border: 5px #212529;
   color: #ffffff;
   margin-top: 4%;
+}
+
+.buttonT:hover {
+  background-color: #74C69D;
+  color: #032c0a;
 }
 
 .main_conteiner {
