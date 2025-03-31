@@ -1,0 +1,107 @@
+.text_team {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  justify-content: center;
+}
+
+.block_nameT {
+  height: auto;
+  font-family: Work Sans;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 125%;
+  letter-spacing: 5px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #74C69D;
+}
+
+.titleT {
+  font-family: Crimson Text;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 125%;
+  letter-spacing: 0px;
+  text-align: center;
+  padding-top: 2%;
+}
+
+.textT {
+  width: 30%;
+  font-family: Work Sans;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 125%;
+  letter-spacing: 0px;
+  text-align: center;
+  padding-top: 2%;
+  display: inline-block;
+}
+
+.card {
+  width: 252px;
+  height: auto;
+}
+
+.carousel {
+  width: 91%;
+  height: 70%;
+  display: flex;
+  justify-content: center;
+  margin-left: 5%;
+  padding-top: 2%;
+  box-sizing: border-box;
+}
+
+.carousel-inner {
+  display: flex;
+  justify-content: center;
+  gap: 5%;
+}
+
+.carousel-control-next:hover {
+  background-color: rgba(0, 0, 0, 0.281);
+}
+
+.carousel-control-prev:hover {
+  background-color: rgba(0, 0, 0, 0.281);
+}
+
+.card_text {
+  padding-left: 10%;
+  padding-top: 5%;
+}
+
+.card_text_position {
+  font-family: Work Sans;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 125%;
+  letter-spacing: 0px;
+  padding-top: 10%;
+}
+
+.name_peopleT {
+  font-family: Crimson Text;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 125%;
+  letter-spacing: 0px;
+}
+
+.buttonT {
+  width: 170px;
+  height: 48px;
+  font-family: Work Sans;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 125%;
+  letter-spacing: 0px;
+  text-align: center;
+  background-color: #212529;
+  border-radius: 5px;
+  border: 5px #212529;
+  color: #ffffff;
+  margin-top: 4%;
+}/*# sourceMappingURL=style_t.css.map */
