@@ -5,6 +5,37 @@
 	padding-left: 10%; //135px 10%
 	justify-content: space-between;
 }
+@media (max-width:1000px) {
+	.nav_menu{
+		display: none;
+	}
+}
+.nav_smart{
+	background-color: #74C69D;
+	width: 82%; //82% 1175px
+	height: 40%; //5% 50px
+	padding-top: 8%; //35px 2%
+	padding-left: 5%; //135px 10%
+	justify-content: space-between;
+	display: flex;
+	font-size: 30px;
+}
+@media (min-width:1001px) {
+	.nav_smart{
+		display: none;
+	}
+}
+.navbar-brand{
+	font-size: 30px;
+}
+.container{
+	width: 100%;
+	height: auto;
+}
+.navbar-toggler{
+	width: auto;
+	height: auto;
+}
 .logo_nav{
 	height: 50px; //50px 
 	gap: 2%; //18px

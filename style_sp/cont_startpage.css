@@ -5,6 +5,24 @@
   padding-left: 10%;
 }
 
+@media (max-width: 1000px) {
+  .cont_startpage {
+    width: 1000px;
+    height: auto;
+  }
+}
+@media (max-width: 500px) {
+  .cont_startpage {
+    width: 500px;
+    height: auto;
+  }
+}
+@media (max-width: 375px) {
+  .cont_startpage {
+    width: 375px;
+    height: auto;
+  }
+}
 .text_startpage {
   padding-top: 2%;
 }
